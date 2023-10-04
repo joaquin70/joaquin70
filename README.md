@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<p align="left"> <img src=![Uploading Banner de LinkedIn Trabajo Sencillo.png…]()
- alt="joaquin70" /> </p>
+<p align="center"> <img src=![Uploading Banner de LinkedIn Trabajo Sencillo.png…]()
+ alt= /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquin70&label=Profile%20views&color=0e75b6&style=flat" alt="joaquin70" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquin70" alt="joaquin70" /></a> </p>
