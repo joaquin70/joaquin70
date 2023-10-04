@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<img src="![Uploading Banner de LinkedIn Trabajo Sencillo.png…]()
+<img src="https://media.licdn.com/dms/image/D4D16AQHQ4P3wlk704g/profile-displaybackgroundimage-shrink_350_1400/0/1694190785115?e=1701907200&v=beta&t=MkT2-zF8lPDL3eaXtq5BbzMplwPXWNZF_pVY99a_QgY
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquin70&label=Profile%20views&color=0e75b6&style=flat" alt="joaquin70" /> </p>
 
