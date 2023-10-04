@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/joakogonzalez77" target="blank"><img src="https://img.shields.io/twitter/follow/joakogonzalez77?logo=twitter&style=for-the-badge" alt="joakogonzalez77" /></a> </p>
 
-- 🔭 I’m currently working on [RickAndMorty](https://github.com/Joaquin70/RickaMortyJOAKO.git)
+- 🔭 I’m currently working on En Proyectos De Henry
 
 - 📫 How to reach me **joako12409@gmail.com**
 
