@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/joaquin70">Joaquin Gonzalez</a> 👋</h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQHQ4P3wlk704g/profile-displaybackgroundimage-shrink_350_1400/0/1694190785115?e=1701907200&v=beta&t=MkT2-zF8lPDL3eaXtq5BbzMplwPXWNZF_pVY99a_QgY">
+<img src="https://www.canva.com/design/DAFt4CFUGi0/cO7sY43VMFFn7LjVuXvxQg/view?utm_content=DAFt4CFUGi0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquin70&label=Profile%20views&color=0e75b6&style=flat" alt="joaquin70" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquin70" alt="joaquin70" /></a> </p>
