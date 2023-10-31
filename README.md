@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/joaquin70">Joaquin Gonzalez</a> 👋</h1>
 </div>
 
-<img src="https://www.canva.com/design/DAFt4CFUGi0/Z1iWjYYv1EvG-dKFLM9c8g/edit?utm_content=DAFt4CFUGi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+<img src= "https://document-export.canva.com/FUGi0/DAFt4CFUGi0/15/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20231031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231031T075425Z&X-Amz-Expires=34862&X-Amz-Signature=4bd00521920587668452529a0d3e94d01fe7183033b1c80f234df4a04d0bbb24&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2031%20Oct%202023%2017%3A35%3A27%20GMT">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquin70&label=Profile%20views&color=0e75b6&style=flat" alt="joaquin70" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquin70" alt="joaquin70" /></a> </p>
