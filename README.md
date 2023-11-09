@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **joako12409@gmail.com**
 
-- ⚡ Fun fact **Soy Un Jugador De Basquet y Estudiante de Programacion**
+- ⚡ Fun fact **Soy Un Jugador De Basquet y Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
