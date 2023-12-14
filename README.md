@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/joakogonzalez77" target="blank"><img src="https://img.shields.io/twitter/follow/joakogonzalez77?logo=twitter&style=for-the-badge" alt="joakogonzalez77" /></a> </p>
 
-- 🔭  I just finished my project [Nautica Rios] (https://github.com/Ivancho894/Nautica-Rios-Web-Front) take a look!
+- 🔭  I just finished my project [Nautica Rios?](https://github.com/Ivancho894/Nautica-Rios-Web-Front) take a look!
 
 - 📫 How to reach me **joako12409@gmail.com**
 
