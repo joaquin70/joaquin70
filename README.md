@@ -4,8 +4,6 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/joaquin70">Joaquin Gonzalez</a> 👋</h1>
 </div>
 
-
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFt4CFUGi0&#x2F;BP09Ai72uAAruFN3kl_BvA&#x2F;view?utm_content=DAFt4CFUGi0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner de LinkedIn Trabajo Sencillo</a> de joako12409
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquin70&label=Profile%20views&color=0e75b6&style=flat" alt="joaquin70" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquin70" alt="joaquin70" /></a> </p>
